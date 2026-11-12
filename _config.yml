@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Théo Michelot"
+title                    : "Akina Kuperus"
 title_separator          : "-"
-name                     : &name "Theo Michelot"
-description              : &description "Assistant professor in statistics at Dalhousie University"
-url                      : https://theomichelot.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Akina Kuperus"
+description              : &description "PhD candidate in Mathematical Biology at University of Victoria"
+url                      : https://akinakuperus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "TheoMichelot.github.io"
+repository               : "akinakuperus.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Théo Michelot"
-  avatar           : "bio-photo.jpg"
-  bio              : "Assistant professor in statistics at Dalhousie University"
-  location         : "Halifax, Canada"
+  name             : "Akina Kuperus"
+  avatar           : "KUPERUS_image.jpg"
+  bio              : "PhD candidate in Mathematical Biology at University of Victoria"
+  location         : "Victoria, Canada"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://scholar.google.com/citations?user=Exvg0HYAAAAJ"
+  googlescholar    : "https://scholar.google.ca/citations?hl=en&user=H42N_fEAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Akina-Kuperus"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "TheoMichelot"
+  github           : "akinakuperus"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "TheoMichelot"
+  twitter          : #"TheoMichelot"
   vine             :
   weibo            :
   xing             :
