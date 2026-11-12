@@ -10,7 +10,7 @@ redirect_from:
 
 ## Interests
 
-I am interested in using mathematical tools to understand animal movement. I enjoy the development of mathematical models, along with the opportunity to collaborate with ecologists to answer their questions. My recent work is focused on incorporating memory into animal movement models and developing methods to jointly model movement of two individuals. 
+I am interested in using mathematical tools to understand animal movement. I enjoy the development of mathematical models, along with the opportunity to collaborate with ecologists to answer their questions. My recent work is focused on incorporating memory into animal movement models and developing methods to jointly model movement of two individuals. The latter will be applied to Svalbard reindeer mother-calf pairs.
 
 ## Biography
 
