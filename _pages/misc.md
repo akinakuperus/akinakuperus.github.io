@@ -5,7 +5,7 @@ permalink: /misc/
 author_profile: true
 ---
 
-I had the honour of visiting Svalbard, Norway and see Svalbard reindeer (PC: Hamish Burnett) ![reindeer](/images/reindeer.jpg).
+I had the honour of visiting Svalbard, Norway and see Svalbard reindeer (PC: Hamish Burnett). ![reindeer](/images/reindeer.jpg)
 
 My life in Victoria has been full of adventure and learning. The Lewis Research Group has been an incredible source of inspiration and laughs.  ![LRG1](/images/lrg1.jpeg) 
 
