@@ -5,13 +5,14 @@ permalink: /talks/
 author_profile: true
 ---
 
-See my CV for a full list. Here I only include recorded talks that are available online.
+See my CV for a full list. As none of my academic talks have been recorded, here are some examples of non-academic presentations.
 
-"Flexible hidden Markov models in ecology and the R package hmmTMB"\\
-[Recording available online](https://cassyni.com/events/71QFHpfprvkFTkRGCdvLQu)
+"Interpretation Canada 2019 Award of Excellence: Game of Homes"\\
+[Recording available online](https://www.youtube.com/watch?v=VL28rTMdiPA)
 
-"Introduction to analysing animal movement data in R"\\
-[Recording available online](https://www.youtube.com/watch?v=WELTpbB5BuU)
+"SciGirls: "\\
+[Episode available online](https://www.youtube.com/watch?v=XwuH_IZWApA&list=PLeE9Z9we25wScSVlWOGmcQnNXrdNPvovW&index=1)\\
+[Where Are They Now?](https://www.youtube.com/watch?v=CY_03rb-kY4)
 
 <!-- {% for post in site.talks reversed %} -->
 <!--   {% include archive-single-talk.html %} -->
