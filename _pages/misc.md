@@ -5,8 +5,9 @@ permalink: /misc/
 author_profile: true
 ---
 
-I have had the honour of visiting Svalbard, Norway and see Svalbard reindeer (the focal species for my PhD work) : [Capture-Mark-Recapture App](https://theomichelot.shinyapps.io/cmr_shiny_app/).
+I had the honour of visiting Svalbard, Norway and see Svalbard reindeer (PC: Hamish Burnett) ![reindeer](/images/reindeer.png).
 
-I also wrote a Shiny app to generate random maps using [Perlin noise](https://theomichelot.shinyapps.io/perlin_app/).
+My life in Victoria has been full of adventure and learning. The Lewis Research Group has been an incredible source of inspiration and laughs.  ![LRG1]() ![LRG2]()
 
-![cap-recap app](/images/ducks.png)
+Working for Parks Canada as an Interpreter in Lake Louise and Yoho National Park has shaped me profoundly, building my confidence in public speaking, my interest in ecology, and my passion for the outdoors. The Canadian Rockies hold a special place in my heart. ![parks_canada1]() ![parks_canada2]() ![rockies]()
+
