@@ -5,52 +5,17 @@ permalink: /software/
 author_profile: true
 ---
 
-## moveHMM
+## CSSF
 
-We developed the R package **moveHMM** for the analysis of movement data with hidden Markov models. 
+I developed the R package **CSSF** for the analysis of simultaneous movement data from two individuals. 
 
- - [CRAN](https://cran.r-project.org/package=moveHMM): description, documentation, archives...
-	
- - [Github](https://github.com/TheoMichelot/moveHMM): latest (unstable) version of the code.
-	
- - Get started with [the vignette](https://cran.r-project.org/web/packages/moveHMM/vignettes/moveHMM-guide.pdf). There, we describe the functionalities of the package in detail, and illustrate their use on elk tracking data.
-	
- - Short [video presentation](https://www.youtube.com/watch?v=90LqSNITrN0) for MEE.
+ - [Github]: Coming soon.
+ - [Paper]: Coming soon.
          
-## momentuHMM
+## MemoryHMMSSF
+Romain Dejeante and I developed the R package **MemoryHMMSSF** for integrating animal experience into state-switching habitat selection models.
 
-The R package **momentuHMM** extends moveHMM to more general and flexible models. Additional features include: unlimited number of data streams, inclusion of covariates on the observation distribution parameters, centres of attraction, multiple imputation to account for irregular sampling and/or measurement error, etc.
+- [Github]: Coming soon.
+- [Paper](https://doi.org/10.64898/2026.07.28.741089): Here, we propose a mechanistic framework that models state-switching habitat selection as a history-dependent process, where internal states, such as fear or energy, emerge as latent variables accumulating through environmental exposure.
 
- - On [CRAN](https://cran.r-project.org/package=momentuHMM).
-	
- - On [Github](https://github.com/bmcclintock/momentuHMM).
-	
- - Get started with [the vignette](https://cran.r-project.org/web/packages/momentuHMM/vignettes/momentuHMM.pdf).
 
-## hmmTMB
-
-**hmmTMB** is a general R package for hidden Markov models, which uses TMB and mgcv to allow for random effects and non-parametric covariate effects on model parameters (with automatic smoothness selection). The package is available on [Github](https://github.com/TheoMichelot/hmmTMB), and it is described in several vignettes:
-
-- [Overview of hmmTMB workflow](https://github.com/TheoMichelot/hmmTMB/blob/master/vignettes/hmmTMB_workflow.pdf) (energy price case study)
-
-- [Analysing animal movement data using hmmTMB](https://github.com/TheoMichelot/hmmTMB/blob/master/vignettes/hmmTMB_example_movement.pdf)
-
-- [Analysing occupancy data using hmmTMB](https://github.com/TheoMichelot/hmmTMB/blob/master/vignettes/hmmTMB_example_occupancy.pdf)
-
-- [Bayesian inference for hidden Markov models using hmmTMB](https://github.com/TheoMichelot/hmmTMB/blob/master/vignettes/hmmTMB_example_stan.pdf)
-
-- [Advanced features of hmmTMB](https://github.com/TheoMichelot/hmmTMB/blob/master/vignettes/hmmTMB_advanced_features.pdf)
-
-## Other R packages
-
- - [**smoothSDE**](https://github.com/TheoMichelot/smoothSDE) can be used to fit varying-coefficient stochastic differential equations, described in [this preprint](https://arxiv.org/pdf/2008.09111.pdf).
-
- - [**MScrawl**](https://github.com/TheoMichelot/MScrawl) is a package to fit state-switching continuous-time correlated random walks using MCMC, as described in [this paper](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13154).
-	
- - [**localGibbs**](https://github.com/TheoMichelot/localGibbs) implements the local Gibbs model for animal movement and habitat selection, presented in [this paper](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.2452) and [this paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13170).
-
-## Miscellaneous
-
-Vianey Leos Barajas and I wrote [a tutorial about using Stan to implement hidden Markov models](https://arxiv.org/pdf/1806.10639.pdf), in particular to analyse animal movement data. In that document, we re-analyse the wild haggis data set from the moveHMM paper.
-		
-A while ago, I also wrote [a document about implementing hidden Markov models](http://media.wix.com/ugd/3708a3_a0a0401708844718a538c2d7c3124224.pdf) in R and/or C++ (using Rcpp). It describes two examples in detail: a 2-state HMM with Poisson-distributed observations, and a 3-state HMM inspired by movement models. R code is provided for simulation, estimation, and inference in these models.
