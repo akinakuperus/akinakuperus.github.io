@@ -5,18 +5,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Courses taught at Dalhousie University
+## Courses taught at University of Victoria
 
-- STAT/MATH 3360: Probability (2025)
-- STAT 4370/5370: Stochastic Processes (2023, 2024, 2025)
-  - [Course notes](https://theomichelot.github.io/files/Stochastic-Processes.pdf)
-- STAT 3450: Statistical Learning with R (2024, 2025, 2026)
-- STAT/MATH 3460: Intermediate Statistical Theory (2024, 2025) 
-- STAT 1060: Introductory Statistics for Science and Health Sciences (2023)
+- MATH 151: Finite Math (2023)
 
-## Courses taught at the University of St Andrews
+## Teaching Assistant at the University of Victoria
 
-- MT5758: Multivariate Analysis (2022)
+- MATH 109: Calculus I (2023, 2024)
+- MATH 101: Calculus II (2025)
+- Math & Stats Assistance Center (2023, 2025, 2026)
 
 
 <!-- {% include base_path %} -->
