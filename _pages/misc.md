@@ -7,7 +7,7 @@ author_profile: true
 
 I had the honour of visiting Svalbard, Norway and see Svalbard reindeer (PC: Hamish Burnett) ![reindeer](/images/reindeer.png).
 
-My life in Victoria has been full of adventure and learning. The Lewis Research Group has been an incredible source of inspiration and laughs.  ![LRG1]() ![LRG2]()
+My life in Victoria has been full of adventure and learning. The Lewis Research Group has been an incredible source of inspiration and laughs.  ![LRG1](/images/lrg1.jpeg) ![LRG2](/images/lrg2.jpg)
 
-Working for Parks Canada as an Interpreter in Lake Louise and Yoho National Park has shaped me profoundly, building my confidence in public speaking, my interest in ecology, and my passion for the outdoors. The Canadian Rockies hold a special place in my heart. ![parks_canada1]() ![parks_canada2]() ![rockies]()
+Working for Parks Canada as an Interpreter in Lake Louise and Yoho National Park has shaped me profoundly, building my confidence in public speaking, my interest in ecology, and my passion for the outdoors. The Canadian Rockies hold a special place in my heart. ![parks_canada1](/images/pc1.jpg) ![parks_canada2](/images/pc2.jpg) ![rockies](/images/rockies.jpeg)
 
